@@ -2,7 +2,7 @@
 
 Sample Backend Application For Enyata
 
-- Click [here](<(https://documenter.getpostman.com/view/18143905/2s93RNxaEv)>) for a link to the postman documentation
+- Click [here](https://documenter.getpostman.com/view/18143905/2s93RNxaEv) for a link to the postman documentation
 
 ### Setup
 
