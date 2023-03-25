@@ -19,6 +19,17 @@ Sample Backend Application For Enyata
 
 ```bash
   npm run dev
+  
+```
+### Run Integration test
+```bash
+  npm run test:integration
+ 
+```
+### Run Unit test
+```bash
+  npm run test:unit
+ 
 ```
 
 ### Start up docker
