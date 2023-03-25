@@ -32,13 +32,13 @@ Sample Backend Application For Enyata
 - Build the application on docker with the following command
 
 ```bash
-  docker build -t Enyata-test .
+  docker build -t enyata-test .
 ```
 
 - Run the application
 
 ```bash
-  docker run -p 3000:3000 Enyata-test
+  docker run -p 3000:3000 enyata-test
 
 ```
 
